@@ -71,22 +71,3 @@ export default function Cosmo() {
     </main>
   );
 }
-
-
-// import Link from 'next/link'
-
-// export default function Home() {
-//   return (
-//      <ul>
-//       <li>
-//         <Link href="/">Home</Link>
-//       </li>
-//       <li>
-//         <Link href="/cosmo">Cosmo</Link>
-//       </li>
-//       <li>
-//         <Link href="/transfer">Trasfer</Link>
-//       </li>
-//     </ul>
-//   );
-// }
